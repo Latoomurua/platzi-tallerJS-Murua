@@ -7,3 +7,10 @@ Curso Practico de Javascript
 - Segundo paso: implementar las formulas en JS
 - Tercer paso: crear funciones
 - Integrar Javascript con HTML
+
+## TALLER NUMERO 2 - PORCENTAJES Y DESCUENTOS
+
+- Primer paso: definir las formulas
+- Segundo paso: implementar las formulas en JavaScript.
+- Tercer paso: crear funciones.
+- Cuarto paso: Integrar JS con HTML
